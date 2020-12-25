@@ -1,7 +1,5 @@
 # Kids-Games
 
-<h2>Learning Games</h2>
-<br>
 <h2><strong> Gaming Mode </strong></h2>
 <img height=" 300px" src="https://github.com/Mishal-Khan/Kids-Games/blob/main/img/c1.jpeg" />
 
